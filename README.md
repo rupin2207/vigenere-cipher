@@ -48,18 +48,24 @@ This project provides an interactive Flask-based web interface where users can:
 📂 Project Structure
 Vigenere-Cipher-Tool/
 │── app.py              # Flask backend
+
 │── templates/
+
 │    └── index.html     # Frontend UI
+
 │── README.md           # Project documentation
 
 🛠 Installation
 1️⃣ Clone the Repository
 git clone https://github.com/rupin2207/vigenere-cipher.git
+
 cd vigenere-cipher
 
 2️⃣ Create a Virtual Environment (Recommended)
 python -m venv venv
+
 venv\Scripts\activate       # For Windows
+
 # OR
 source venv/bin/activate    # For Mac/Linux
 
